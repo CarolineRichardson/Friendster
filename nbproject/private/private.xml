@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/ListGames.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/entity/Games.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/entity/GamesFacade.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/entity/User.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/DisplayFriend.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/ListUserServlet.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/AddFriend.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/AddFriendServlet.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/CreateFriendServlet.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/Login.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/CreateUser.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/ListFriends.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/CreateGame.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/entity/UserFacade.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/AccountScreen.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/ListUser.jsp</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/ListGames.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/ListAccountInfo.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/java/enterprise/web_jpa_war/servlet/CreateUserServlet.java</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/src/conf/persistence.xml</file>
+            <file>file:/F:/NetBeansProjects/Friendster(1)/Friendster_Experiment_2.2ListRelationshipTable_12WORKS/web/ListFriends.jsp</file>
+        </group>
+    </open-files>
+</project-private>
